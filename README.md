@@ -108,6 +108,19 @@ This project is licensed under the MIT License. See the LICENSE file for details
 Contributions, bug reports, and feature requests are welcome! Feel free to open an issue or submit a pull request.
 
 ---
+## 🔖 DOI & Citation
+
+This project is archived on Zenodo:
+
+### 📄 Suggested Citation
+
+```
+Daniel Sherif Awad (2025). Stable Galaxy Collision Simulator (Version 1.0.0) [Computer Software].
+Zenodo:  https://doi.org/10.5281/zenodo.15536714
+```
+
+Or click: https://doi.org/10.5281/zenodo.15536714
+___
 
 ## 📬 Contact
 
@@ -118,3 +131,4 @@ If you have questions or want to collaborate, reach out via GitHub or email.
 Thank you for checking out Stable Galaxy Collision Simulation! 🚀🌌
 
 ---
+
