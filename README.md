@@ -88,9 +88,10 @@ This will launch a 3D visualization window showing the colliding galaxies with c
 ```
 GalaxyCollisionSimulator/
 │
-├── bh_tree.cpp
 ├── GalaxyCollisionSimV1.py
-├── README.md
+├── LICENSE
+├── README.MD
+├── bh_tree.cpp
 └── requirements.txt
 ```
 
