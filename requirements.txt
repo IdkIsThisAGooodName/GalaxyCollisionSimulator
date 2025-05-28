@@ -1,0 +1,4 @@
+vedo
+numpy
+matplotlib
+pybind11
